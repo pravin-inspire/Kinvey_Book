@@ -22,8 +22,8 @@
 
   // Initialize Kinvey.
   var promise = Kinvey.init({
-    appKey    : 'kid_bkrdyfglp',
-    appSecret : '0aadd49222f24966ae9d4489546090e8',
+    appKey    : 'kid_byAVMBZCh',
+    appSecret : '1a6f41b2f5684650949fea832ed0b384',
     sync      : { enable: true, online: navigator.onLine }
   }).then(function(activeUser) {
     // Auto-generate the active user if not defined.
